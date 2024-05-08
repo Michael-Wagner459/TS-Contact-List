@@ -7,5 +7,3 @@ They can click the new Contact button which will redirect them to a new page whe
 They can also click delete on a contact they want to delete which will delete the contact.
 
 They can also click edit which will send them to an input page (similar to the new contact page) that has all the information prefilled of the existing contact. Here they can adjust what information they want to change and submit it. When submitted they will be back at the main page.
-
-T
