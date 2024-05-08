@@ -1,36 +1,11 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a Contact application made by Michael Wagner
 
-## Getting Started
+The user will start off on the Main page where they will see a list of all their Contacts. From here they can click the add a new contact button, click the edit button, and click the delete buttom.
 
-First, run the development server:
+They can click the new Contact button which will redirect them to a new page where they can enter information of a new contact then submit it. This will then redirect them back to the Main page.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+They can also click delete on a contact they want to delete which will delete the contact.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+They can also click edit which will send them to an input page (similar to the new contact page) that has all the information prefilled of the existing contact. Here they can adjust what information they want to change and submit it. When submitted they will be back at the main page.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+T
